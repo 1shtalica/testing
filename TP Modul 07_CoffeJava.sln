@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP Modul 07_CoffeJava", "TP Modul 07_CoffeJava\TP Modul 07_CoffeJava.csproj", "{CEDC0A1F-C25E-478C-B1EC-BA9C44A9AF25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEDC0A1F-C25E-478C-B1EC-BA9C44A9AF25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEDC0A1F-C25E-478C-B1EC-BA9C44A9AF25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEDC0A1F-C25E-478C-B1EC-BA9C44A9AF25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEDC0A1F-C25E-478C-B1EC-BA9C44A9AF25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C716C3F-A8AF-4E64-BF82-796621ADE8F7}
+	EndGlobalSection
+EndGlobal
